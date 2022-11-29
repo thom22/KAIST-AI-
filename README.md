@@ -1,1 +1,1 @@
-# KAIST-AI-
+# KAIST-AI-COURSE
